@@ -4,12 +4,12 @@ Hi 👋 My name is Aniruddha Guin
 Software Developer
 ------------------
 
-SDE at PrepBytes | Ex-PwC | Crashing codes at production is my hobby
+SDE-2 @ CAW Studios | Ex-PrepBytes(CollegeDekho) | Ex-PwC | Crashing codes at production is my hobby
 
 * 🌍  I'm based in Kolkata, West Bengal, India
 * ✉️  You can contact me at [aniscima@gmail.com](mailto:aniscima@gmail.com)
 * 🧠  I'm learning C++, Java, Javascript, NodeJs, ExpressJs, AWS, DynamoDB, Redis, MySQL
-* ⚡  I can definitely crash production level code!
+* ⚡  I can definitely crash production-level code!
 
 ### Skills
 
